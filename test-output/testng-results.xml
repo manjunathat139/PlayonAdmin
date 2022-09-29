@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T17:15:21 IST" name="FREE CRM Application Test Automation Test Suite" finished-at="2022-02-05T17:21:59 IST" duration-ms="397251">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T17:15:21 IST" name="playOn App Test Cases" finished-at="2022-02-05T17:21:59 IST" duration-ms="397251">
+      <class name="axx.playOn.automation.HomePagePlayonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.HomePagePlayonTest@1dde4cb2]" started-at="2022-02-05T17:16:03 IST" name="setUp" finished-at="2022-02-05T17:16:28 IST" duration-ms="25091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnBusinessPartnerTest()[pri:0, instance:axx.playOn.automation.HomePagePlayonTest@1dde4cb2]" started-at="2022-02-05T17:16:28 IST" name="clickOnBusinessPartnerTest" finished-at="2022-02-05T17:16:32 IST" duration-ms="3485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBusinessPartnerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.HomePagePlayonTest@1dde4cb2]" started-at="2022-02-05T17:16:32 IST" name="tearDown" finished-at="2022-02-05T17:16:34 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- axx.playOn.automation.HomePagePlayonTest -->
+      <class name="axx.playOn.automation.LoginPagePlayonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:15:21 IST" name="setUp" finished-at="2022-02-05T17:15:28 IST" duration-ms="6241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginText()[pri:1, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:15:28 IST" name="verifyLoginText" finished-at="2022-02-05T17:15:35 IST" duration-ms="7184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:15:35 IST" name="tearDown" finished-at="2022-02-05T17:15:37 IST" duration-ms="1723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:15:37 IST" name="setUp" finished-at="2022-02-05T17:15:42 IST" duration-ms="5490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:2, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:15:42 IST" name="login" finished-at="2022-02-05T17:16:01 IST" duration-ms="19293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.LoginPagePlayonTest@6a28ffa4]" started-at="2022-02-05T17:16:01 IST" name="tearDown" finished-at="2022-02-05T17:16:03 IST" duration-ms="1789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- axx.playOn.automation.LoginPagePlayonTest -->
+      <class name="axx.playOn.automation.RegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:16:34 IST" name="setUp" finished-at="2022-02-05T17:16:59 IST" duration-ms="25387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisterText()[pri:1, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:16:59 IST" name="verifyRegisterText" finished-at="2022-02-05T17:17:06 IST" duration-ms="6903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:17:06 IST" name="tearDown" finished-at="2022-02-05T17:17:08 IST" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:17:08 IST" name="setUp" finished-at="2022-02-05T17:17:34 IST" duration-ms="26041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnRegister()[pri:2, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:17:34 IST" name="clickOnRegister" finished-at="2022-02-05T17:17:54 IST" duration-ms="19894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.RegisterPageTest@7714e963]" started-at="2022-02-05T17:17:54 IST" name="tearDown" finished-at="2022-02-05T17:17:56 IST" duration-ms="2131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- axx.playOn.automation.RegisterPageTest -->
+      <class name="axx.playOn.automation.businessPartnerRegistrationPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:17:56 IST" name="setUp" finished-at="2022-02-05T17:18:21 IST" duration-ms="24978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisterText()[pri:1, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:18:21 IST" name="verifyRegisterText" finished-at="2022-02-05T17:18:50 IST" duration-ms="29204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:18:50 IST" name="tearDown" finished-at="2022-02-05T17:18:52 IST" duration-ms="1782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:18:52 IST" name="setUp" finished-at="2022-02-05T17:19:17 IST" duration-ms="25381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnRegister()[pri:2, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:19:17 IST" name="clickOnRegister" finished-at="2022-02-05T17:19:41 IST" duration-ms="24182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.businessPartnerRegistrationPageTest@20ce78ec]" started-at="2022-02-05T17:19:41 IST" name="tearDown" finished-at="2022-02-05T17:19:44 IST" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- axx.playOn.automation.businessPartnerRegistrationPageTest -->
+      <class name="axx.playOn.automation.corporationDeatilsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:19:44 IST" name="setUp" finished-at="2022-02-05T17:20:09 IST" duration-ms="25961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifycorporationpage()[pri:0, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:20:09 IST" name="verifycorporationpage" finished-at="2022-02-05T17:20:59 IST" duration-ms="49569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycorporationpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:20:59 IST" name="tearDown" finished-at="2022-02-05T17:21:01 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:21:01 IST" name="setUp" finished-at="2022-02-05T17:21:27 IST" duration-ms="25962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisterText()[pri:1, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:21:27 IST" name="verifyRegisterText" finished-at="2022-02-05T17:21:57 IST" duration-ms="29782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:axx.playOn.automation.corporationDeatilsPageTest@6eda5c9]" started-at="2022-02-05T17:21:57 IST" name="tearDown" finished-at="2022-02-05T17:21:59 IST" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- axx.playOn.automation.corporationDeatilsPageTest -->
+    </test> <!-- playOn App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>

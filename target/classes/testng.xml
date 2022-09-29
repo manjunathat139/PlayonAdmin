@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE CRM Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="axx.playOn.ExtentReportListner.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="playOn App Test Cases">
+		<classes>
+	<!--		<class name="axx.playOn.automation.WelcomeTest"></class>
+		<class name="com.crm.qa.testcases.HomePageTest"></class>
+			<class name="com.crm.qa.testcases.ContactsPageTest"></class>  -->	
+
+          	<class name="axx.playOn.automation.LoginPagePlayonTest"></class>
+			<class name="axx.playOn.automation.HomePagePlayonTest"></class>		
+			<class name="axx.playOn.automation.RegisterPageTest"></class>		
+			<class name="axx.playOn.automation.businessPartnerRegistrationPageTest"></class>
+			<class name="axx.playOn.automation.corporationDeatilsPageTest"></class>
+
+		</classes>
+	</test>
+</suite>
